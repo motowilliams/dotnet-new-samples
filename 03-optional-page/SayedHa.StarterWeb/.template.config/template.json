@@ -1,9 +1,9 @@
 {
-  "author": "Sayed Ibrahim Hashimi",
+  "author": "Not Sayed Ibrahim Hashimi",
   "classifications": [ "Web" ], 
-  "name": "Sayed Starter Web",
+  "name": "Not Sayed Starter Web",
   "identity": "SayedHa.StarterWeb",         
-  "shortName": "sayedweb",                 // You can create the project using this short name instead of the one above.
+  "shortName": "notsayedweb",                 // You can create the project using this short name instead of the one above.
   "tags": {
     "language": "C#"                       // Specify that this template is in C#.
   },
@@ -13,7 +13,7 @@
     "CopyrightName": {
       "type": "parameter",
       "defaultValue": "John Smith",
-      "replaces":"Sayed Ibrahim Hashimi"
+      "replaces":"Not Sayed Ibrahim Hashimi"
     },
     "Title": {
       "type": "parameter",
